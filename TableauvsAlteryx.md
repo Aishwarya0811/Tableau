@@ -23,14 +23,25 @@ Alteryx	Tableau
 
 Tableau 
 1.	This tool is known for its data visualization capabilities.
+
 2.Can connect with different data sources and provide data visualization within minutes from the gathered data.
+
 3.Helps in terms of building appealing graphs.
+
 4.The GUI is one of the best features where graphs can be easily built by using drag and drop options.
+
 5.Technical knowledge is not necessary, because all the data will be polished and only the user has to build graphs/visualization.
+
 6.Once the graphs are prepared, the reports can be easily shared among team members without any hassle.
+
 7.Flexibility while using the tool for data visualization.
+
 8.Possible by representing the data in an appropriate format.
+
 9.Not feasible to prepare the data in Tableau when it is compared to Alteryx.
+
 10.It is a wonderful tool for data representation.
+
 11.Has an option to pay monthly as well.
+
 12.Has a drag and drop interface where the user will be able to build a visualization in no time.
