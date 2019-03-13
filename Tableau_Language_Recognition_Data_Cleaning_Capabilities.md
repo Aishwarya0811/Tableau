@@ -1,18 +1,35 @@
-Tableau has added natural language processing to its platform with its release Ask Data, which allows users to search for – and visualise – data using natural language, rather than keywords.
+#**ASK DATA**
 
-The other has been dubbed Data Prep Conductor. A native integration with Tableau Server, 
-it allows organisations to schedule and manage self-service data preparation at scale across the 65 different data sources 
-Tableau can connect with, from Aurora to MemSQL, via Apache Drill, SAP, MongoDB, Oracle and more.
+**_Tableau_** has **added natural language processing** to its platform with its release Ask Data, which allows users
 
+- to search data
+- visualise data 
 
-Ask Data uses algorithms to automatically profile and index data sources/queries; 
-for example if someone searches their sales figures for “British furniture”
+using natural language, **rather than keywords**.
+
+**Ask Data uses algorithms to automatically profile and index data sources/queries;**
+
+##For example 
+
+if someone searches their sales figures for “British furniture”
 it automatically recognises that they need “product category” filtered to “furniture,” and “Country” set to “United Kingdom.” 
 
-Ask Data as “providing a more intuitive and natural way to interact with data, lowering the barrier to entry for 
-analytics and allowing people to ask questions in plain language and get highly relevant insights faster.”
+**Ask Data as “providing a more intuitive and natural way to interact with data, lowering the barrier to entry for 
+analytics and allowing people to ask questions in plain language and get highly relevant insights faster.”**
 
-It is available as part of Tableau Server and Tableau Online for no extra cost.
+**It is available as part of Tableau Server and Tableau Online for no extra cost.**
+
+#**Data Prep Conductor**
+
+The other has been dubbed **Data Prep Conductor**. A native integration with Tableau Server, it allows organisations 
+
+-to schedule data preparation 
+-manage self-service data preparation 
+
+at scale across the **65 different data sources** 
+
+**_Tableau can connect with, from Aurora to MemSQL, via Apache Drill, SAP, MongoDB, Oracle and more._**
+
 
 Tableau Data Management
 
