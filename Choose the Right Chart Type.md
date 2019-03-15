@@ -1,11 +1,11 @@
-##Distribution
+## Distribution
 
 Distribution analysis is extremely useful in data analysis because it shows how your
 quantitative values are distributed across their full quantitative range.
 
 One is a box plot, and the other is a histogram. 
 
-BOX PLOTS 
+_BOX PLOTS_ 
 
 Box plots are excellent for displaying multiple distributions.
 They pack all your data points—in this case, minutes per patients—into a box and whisker display (see
@@ -14,16 +14,16 @@ medians, the 75th-percentiles, and the maximum values across all categories—al
 at the same time. 
 
 
-HISTOGRAM 
+_HISTOGRAM_ 
 
 In a histogram we break the data out by time,
 segments (or bins) and count the number of patients in each segment. 
 
 
-##Part to Whole
+## Part to Whole
 
 Although pie charts are commonly used in partto-whole analysis, we suggest avoiding them.
 
-##Geographical Data
+## Geographical Data
 
 Maps are often best when paired with another chart that details what the map displays.
