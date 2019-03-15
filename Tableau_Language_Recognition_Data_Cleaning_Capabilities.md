@@ -9,7 +9,7 @@ using natural language, **rather than keywords**.
 
 **Ask Data uses algorithms to automatically profile and index data sources/queries;**
 
-##For example 
+# For example 
 
 if someone searches their sales figures for “British furniture”
 it automatically recognises that they need “product category” filtered to “furniture,” and “Country” set to “United Kingdom.” 
