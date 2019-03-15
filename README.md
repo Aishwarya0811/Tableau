@@ -5,7 +5,7 @@
 
 3.Types of Filters 
 
-4. Dealing with Missing values in Tableau
+4.Dealing with Missing values in Tableau
 
 
 
